@@ -8,15 +8,15 @@ See the Trello at https://trello.com/b/AxxBBcQF/tools-and-resources for details 
 
 The tool registry pages are as follows:
 
-* Data (Neelima Thanneer) - https://github.com/isoplinks/isoplinks.github.io/Data.md
+* Data (Neelima Thanneer) - https://github.com/isoplinks/isoplinks.github.io/blob/master/Data.md
 
 * Pharmacometrics
-  - Modeling / Estimation (Justin Wilkins) - https://github.com/isoplinks/isoplinks.github.io/Estimation.md
-  - Simulation (Mike K Smith) - https://github.com/isoplinks/isoplinks.github.io/Simulation.md   
+  - Modeling / Estimation (Justin Wilkins) - https://github.com/isoplinks/isoplinks.github.io/blob/master/Estimation.md
+  - Simulation (Mike K Smith) - https://github.com/isoplinks/isoplinks.github.io/blob/master/Simulation.md   
   
-* Quantitative Systems Pharmacology (Eric Sobie)  - https://github.com/isoplinks/isoplinks.github.io/QSP.md
+* Quantitative Systems Pharmacology (Eric Sobie)  - https://github.com/isoplinks/isoplinks.github.io/blob/master/QSP.md
 
-* Machine Learning/AI (Wei Gao) - https://github.com/isoplinks/isoplinks.github.io/MLAI.md
+* Machine Learning/AI (Wei Gao) - https://github.com/isoplinks/isoplinks.github.io/blob/master/MLAI.md
 
 ## ISoP tools survey
 
